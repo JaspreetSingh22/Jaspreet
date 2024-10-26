@@ -1192,13 +1192,16 @@ nav#filter li {
 
 .devDesc {
 	position:absolute;
-	padding-top: 6%;
+	padding-top: 3%;
 	padding-left: 53%;
 	h2 {
 	padding-top: 1%;
 	}
 	p {
 	padding-top: 1%;
+	font-size: 20px;
+	text-align: left;
+	padding: 17px 48px;
 	}
 }
  
