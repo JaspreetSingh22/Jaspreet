@@ -6,7 +6,8 @@ var slides = [];
 var sl;
 
 var project1 = ['images/portfolio/project1/img1.png','images/portfolio/project1/img2.png',' images/portfolio/project1/img3.png', 'images/portfolio/project1/img4.png', 'images/portfolio/project1/img5.png'];
-var project2 = ['images/portfolio/project2/img1.jpg','images/portfolio/project2/img2.jpg',' images/portfolio/project2/img3.jpg', 'images/portfolio/project2/img4.jpg'];
+var project2 = ['images/portfolio/project2/img1.jpg','images/portfolio/project2/img2.jpg',' images/portfolio/project2/img3.jpg', 'images/portfolio/project2/img4.jpg','images/portfolio/project2/img5.jpg'];
+var project3 = ['images/portfolio/project3/img1.jpg','images/portfolio/project3/img2.jpg',' images/portfolio/project3/img3.jpg'];
 
 function slider(){
     if(Start<slides.length){
@@ -39,6 +40,9 @@ function openModal() {
 		break;
 		case 'project2':
 			slides = project2;
+		break;
+		case 'project3':
+			slides = project3;
 		break;
 		default:
 			slides = project1;
