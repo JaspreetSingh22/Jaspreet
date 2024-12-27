@@ -1244,7 +1244,13 @@ nav#filter li {
  font-size: 50px;
  text-align: center;
  background-color: #DBDBDB;
-color: blue; 
+ color: blue; 
+}
+
+.close-modal-img {
+   border-radius: 20px;	
+   max-height: 50px;
+   max-width: 50px;
 }
 
 .slider{
