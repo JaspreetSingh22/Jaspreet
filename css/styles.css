@@ -1075,7 +1075,7 @@ margin-top: 30%;
 	font-size: 2em;
 }
 .page-section p {
-	font-size: 2em;
+	font-size: 200em;
 	margin: 0 0 20px;
 }
 .portfolio-item .portfolio-desc .folio-info h5 {
@@ -1270,6 +1270,6 @@ nav#filter li {
 }
 
 .close-modal-p {
-	font-size: 1em;
+	font-size: 1.5em;
 	line-height: 1.6em; 
 }
