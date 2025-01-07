@@ -513,7 +513,7 @@ box-shadow: 12px 0px 0px 12px rgba(13, 113, 165, 0.2), -12px 0px 0px 12px rgba(1
 	text-align: right;
 	font-weight: 600;
 	padding-right: 0px;
-	padding-left:0px;
+	padding-left:15px;
 }
 .progress {
 	border-radius: 0px;
